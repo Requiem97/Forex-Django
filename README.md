@@ -4,9 +4,6 @@ This is a website that the developer is using to learn Django development,
 
 ## Tasks
 - [x] Create model
-
-- [] Create views
-
-- [] Create controller
-
-- [] Deploy
+- [ ] Create views
+- [ ] Create controller
+- [ ] Deploy
